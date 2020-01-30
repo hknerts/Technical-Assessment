@@ -20,7 +20,7 @@ You can check the Ansible folder in this repository.
 ```
 **4-) In Unix, how do you find which process is using a file?**
 ```json
-fstat {file_dir}
+fstat example.txt
 ```
 **5-) How would you run a SQL command in your script? Provide a sample script?**
 ```json
