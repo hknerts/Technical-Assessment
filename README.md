@@ -38,11 +38,11 @@ cat -v example.txt
 ```
 **7-) Name five important DevOps tools that organizations should consider adopting when undergoing a DevOps transition ?**
 ```json
-•	Terraform (for provisioning resources of all providers)
-•	- GitLab CI/CD - or  - Jenkins and Git -  (for SCM and CI/CD pipelines)
-•	Docker (Container)
-•	Kubernetes (Container Orchestration)
-•	Ansible (for Configuration Management)
+• Terraform (for provisioning resources of all providers)
+• - GitLab CI/CD - or  - Jenkins and Git -  (for SCM and CI/CD pipelines)
+• Docker (Container)
+• Kubernetes (Container Orchestration)
+• Ansible (for Configuration Management)
 ```
 **8-) What does it mean to shift left in DevOps ?**
 ```json
@@ -51,11 +51,11 @@ The main goal is reduce possibility of unpleasant surprises at the end of the de
 ```
 **9-) What are the prerequisites for the implementation of DevOps ?**
 ```json
-•	The company , product and requirements.
-•	A thorough road map and flexible team for common goal.
-•	If we need more time for analyzing and development the product
-•	If the product has complex task about test and delivery
-•	If the features of the product shows variability
+• The company , product and requirements.
+• A thorough road map and flexible team for common goal.
+• If we need more time for analyzing and development the product
+• If the product has complex task about test and delivery
+• If the features of the product shows variability
 
 ```
 **10-) What are the fundamental differences between DevOps & Agile ?**
