@@ -4,6 +4,7 @@
 Technical Assessment Answers for DevOps Position
 ```
 <img alt="Terraform" src="https://cdn.rawgit.com/hashicorp/terraform-website/master/content/source/assets/images/logo-hashicorp.svg" width="200px">
+<img alt="Ansible" src="https://images.app.goo.gl/FbvNh9c3VRuqSVsE6" width="100px"
 
 ## ANSWERS
 **1-) Describe / design the perfect automation pipeline using Jenkins. Look for what is included in the pipeline, DevSecOps, Code checks, Functional testing, Performance testing, release sign off.**
