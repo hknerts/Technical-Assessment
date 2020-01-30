@@ -18,11 +18,11 @@ You can check the Terraform folder in this repository.
 ```json
 You can check the Ansible folder in this repository.
 ```
-**4-)In Unix, how do you find which process is using a file?**
+**4-) In Unix, how do you find which process is using a file?**
 ```json
 fstat {file_dir}
 ```
-**5-)How would you run a SQL command in your script? Provide a sample script.**
+**5-) How would you run a SQL command in your script? Provide a sample script?**
 ```json
 CONNECTION_STATEMENT="$USERNAME/$PASSWORD@$SERVICE"
 
@@ -31,4 +31,8 @@ OUTPUT=$(sqlplus -s $CONNECTION_STATEMENT <<-END-OF-SQL
 exit;
 END-OF-SQL)
 echo "COMPLETED GATHER STATS $OUTPUT";
+```
+**6-) How would you go about showing non-printable characters in a text file?
+```json
+cat -v example.txt
 ```
