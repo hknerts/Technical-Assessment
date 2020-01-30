@@ -22,3 +22,13 @@ You can check the Ansible folder in this repository.
 ```json
 fstat {file_dir}
 ```
+**5-)How would you run a SQL command in your script? Provide a sample script.**
+```json
+CONNECTION_STATEMENT="$USERNAME/$PASSWORD@$SERVICE"
+
+OUTPUT=$(sqlplus -s $CONNECTION_STATEMEN <<-END-OF-SQL
+           select count(*) from table;
+exit;
+END-OF-SQL)
+echo "COMPLETED GATHER STATS $OUTPUT";
+```
