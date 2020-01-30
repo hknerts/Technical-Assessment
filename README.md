@@ -6,7 +6,7 @@ Technical Assessment Answers for DevOps Position
 <div>
 <img alt="Terraform" src="https://cdn.rawgit.com/hashicorp/terraform-website/master/content/source/assets/images/logo-hashicorp.svg" width="200px">
 <img alt="Ansible" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png" width="60px"
-<img alt="DevOps" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiac5LBqPGa6VUgE3qxvT0uf0e1c49EyRXG_M_PiXhbZXyCbpD" width="200px"
+<img alt="DevOps" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiac5LBqPGa6VUgE3qxvT0uf0e1c49EyRXG_M_PiXhbZXyCbpD" width="20px"
 </div>
 
 ## ANSWERS
