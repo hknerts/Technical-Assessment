@@ -5,7 +5,7 @@ Technical Assessment Answers for DevOps Position
 ```
 
 ## ANSWERS
-**1-) Describe / design the perfect automation pipeline using Jenkins Look for what is included in the pipeline, DevSecOps, Code checks, Functional testing, Performance testing, release sign off.**
+**1-) Describe / design the perfect automation pipeline using Jenkins. Look for what is included in the pipeline, DevSecOps, Code checks, Functional testing, Performance testing, release sign off.**
 
 ```json
 Something here
