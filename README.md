@@ -20,5 +20,5 @@ You can check the Ansible folder in this repository.
 ```
 **4-)In Unix, how do you find which process is using a file?**
 ```json
-fstat [!file_dir]
+fstat !file_dir
 ```
