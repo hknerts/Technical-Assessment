@@ -44,4 +44,7 @@ cat -v example.txt
 •	Kubernetes (Container Orchestration)
 •	Ansible (for Configuration Management)
 ```
-
+**8-) What does it mean to shift left in DevOps ?**
+```json
+Shift left means encountering errors earlier. When we say earlier, we are talking about the left side of SDLC. The main goal is reduce possibility of unpleasant surprises at the end of the development cycle. 
+```
