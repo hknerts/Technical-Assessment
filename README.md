@@ -17,8 +17,9 @@ Something here
 ```
 
 **2-) Create a sample IaaC template using Terraform to provision a single server in availability zone a, with a 20gb operating system volume, and a 100g locally attached data volume. The server will be used to calculate complex equations.**
-<img alt="Terraform" src="https://cdn.rawgit.com/hashicorp/terraform-website/master/content/source/assets/images/logo-hashicorp.svg" width="200px">
+
 ```json
+<img alt="Terraform" src="https://cdn.rawgit.com/hashicorp/terraform-website/master/content/source/assets/images/logo-hashicorp.svg" width="200px">
 You can check the Terraform folder in this repository.
 ```
 **3-) Using ansible, create a sample playbook to install Oracle Java onto a Linux host.**
