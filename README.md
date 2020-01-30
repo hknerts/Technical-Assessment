@@ -60,8 +60,8 @@ The main goal is reduce possibility of unpleasant surprises at the end of the de
 ```
 **10-) What are the fundamental differences between DevOps & Agile ?**
 ```json
-- Agile refers to an iterative approach which focuses on collaboration, customer feedback, and small, rapid releases. 
+• Agile refers to an iterative approach which focuses on collaboration, customer feedback, and small, rapid releases. 
   DevOps is considered a practice of bringing development and operations teams together. 
-- In Agile , feedbacks given by the customer. In DevOps, feedbacks given by internal team.
-- Agile process focusses on constant changes. DevOps focuses on constant testing and delivery.
+• In Agile , feedbacks given by the customer. In DevOps, feedbacks given by internal team.
+• Agile process focusses on constant changes. DevOps focuses on constant testing and delivery.
 ```
