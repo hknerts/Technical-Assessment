@@ -49,3 +49,12 @@ cat -v example.txt
 Shift left means encountering errors earlier. When we say earlier, we are talking about the left side of SDLC. 
 The main goal is reduce possibility of unpleasant surprises at the end of the development cycle. 
 ```
+**9-) What are the prerequisites for the implementation of DevOps ?**
+```json
+•	The company , product and requirements.
+•	A thorough road map and flexible team for common goal.
+•	If we need more time for analyzing and development the product
+•	If the product has complex task about test and delivery
+•	If the features of the product shows variability
+
+```
