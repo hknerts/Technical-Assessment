@@ -38,10 +38,10 @@ cat -v example.txt
 ```
 **7-) Name five important DevOps tools that organizations should consider adopting when undergoing a DevOps transition ?**
 ```json
-•	Terraform (for provisioning resources of all providers)
-•	[ GitLab CI/CD ] or [ Jenkins and Git ] (for SCM and CI/CD pipelines)
-•	Docker (Container)
-•	Kubernetes (Container Orchestration)
-•	Ansible (for Configuration Management)
+[#f03c15]   Terraform (for provisioning resources of all providers)
+[#f03c15]	- GitLab CI/CD - or  - Jenkins and Git -  (for SCM and CI/CD pipelines)
+[#f03c15]	Docker (Container)
+[#f03c15]	Kubernetes (Container Orchestration)
+[#f03c15]	Ansible (for Configuration Management)
 ```
 
