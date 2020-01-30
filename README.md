@@ -26,7 +26,7 @@ fstat {file_dir}
 ```json
 CONNECTION_STATEMENT="$USERNAME/$PASSWORD@$SERVICE"
 
-OUTPUT=$(sqlplus -s $CONNECTION_STATEMEN <<-END-OF-SQL
+OUTPUT=$(sqlplus -s $CONNECTION_STATEMENT <<-END-OF-SQL
            select count(*) from table;
 exit;
 END-OF-SQL)
