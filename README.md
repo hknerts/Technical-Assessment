@@ -6,7 +6,7 @@ Technical Assessment Answers for DevOps Position
 
 ## ANSWERS
 **1-) Describe / design the perfect automation pipeline using Jenkins**
-#### a. Look for what is included in the pipeline, DevSecOps, Code checks, Functional testing, Performance testing, release sign off.**
+##### a. Look for what is included in the pipeline, DevSecOps, Code checks, Functional testing, Performance testing, release sign off.
 ```json
 Something here
 ```
@@ -57,4 +57,11 @@ The main goal is reduce possibility of unpleasant surprises at the end of the de
 •	If the product has complex task about test and delivery
 •	If the features of the product shows variability
 
+```
+**10-) What are the fundamental differences between DevOps & Agile ?**
+```json
+- Agile refers to an iterative approach which focuses on collaboration, customer feedback, and small, rapid releases. 
+  DevOps is considered a practice of bringing development and operations teams together. 
+- In Agile , feedbacks given by the customer. In DevOps, feedbacks given by internal team.
+- Agile process focusses on constant changes. DevOps focuses on constant testing and delivery.
 ```
