@@ -61,12 +61,12 @@ The main goal is reduce possibility of unpleasant surprises at the end of the de
 ```
 **9-) What are the prerequisites for the implementation of DevOps ?**
 ```json
-Your Requirement.
-Automation done and ready.
-Tools and infrastructure.
-Unix/Linux system concepts.
-Command line interface basics
-CI / CD basics or understanding
+• Your Requirement.
+• Automation done and ready.
+• Tools and infrastructure.
+• Unix/Linux system concepts.
+• Command line interface basics
+• CI / CD basics or understanding
 ```
 **10-) What are the fundamental differences between DevOps & Agile ?**
 ```json
