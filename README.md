@@ -18,11 +18,11 @@ Something here
 
 **2-) Create a sample IaaC template using Terraform to provision a single server in availability zone a, with a 20gb operating system volume, and a 100g locally attached data volume. The server will be used to calculate complex equations.**
 ```json
-Please find the related project attached : https://github.com/hknerts/Technical-Assessment/tree/master/Answer%202%20-%20Terraform
+Please have a look at Terraform folder in repository
 ```
 **3-) Using ansible, create a sample playbook to install Oracle Java onto a Linux host.**
 ```json
-Please find the related project attached : https://github.com/hknerts/Technical-Assessment/tree/master/Answer%203%20-%20Ansible
+Please have a look at Ansible folder in repository
 ```
 **4-) In Unix, how do you find which process is using a file ?**
 You can find which process is using a file with fstat command in Unix. For example, to find which proces is using 'example.txt', we can execute  below command.
