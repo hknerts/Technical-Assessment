@@ -33,7 +33,7 @@ fstat example.txt
 CONNECTION_STATEMENT="$USERNAME/$PASSWORD@$SERVICE"
 
 OUTPUT=$(sqlplus -s $CONNECTION_STATEMENT <<-END-OF-SQL
-           select count(*) from table;
+           select t.column from table t;
 exit;
 END-OF-SQL)
 echo "COMPLETED GATHER STATS $OUTPUT";
