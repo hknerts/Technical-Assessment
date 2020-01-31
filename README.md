@@ -12,9 +12,7 @@ Technical Assessment Answers for DevOps Position
 ## ANSWERS
 **1-) Describe / design the perfect automation pipeline using Jenkins. Look for what is included in the pipeline, DevSecOps, Code checks, Functional testing, Performance testing, release sign off.**
 
-```json
-Something here
-```
+<img alt="Ansible" src="img/reference pipeline.png" width="60px">
 
 **2-) Create a sample IaaC template using Terraform to provision a single server in availability zone a, with a 20gb operating system volume, and a 100g locally attached data volume. The server will be used to calculate complex equations.**
 ```json
