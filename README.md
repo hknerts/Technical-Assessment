@@ -18,17 +18,19 @@ Something here
 
 **2-) Create a sample IaaC template using Terraform to provision a single server in availability zone a, with a 20gb operating system volume, and a 100g locally attached data volume. The server will be used to calculate complex equations.**
 ```json
-You can check the Terraform folder in this repository.
+Please find the related project attached : https://github.com/hknerts/Technical-Assessment/tree/master/Answer%202%20-%20Terraform
 ```
 **3-) Using ansible, create a sample playbook to install Oracle Java onto a Linux host.**
 ```json
-You can check the Ansible folder in this repository.
+Please find the related project attached : https://github.com/hknerts/Technical-Assessment/tree/master/Answer%203%20-%20Ansible
 ```
 **4-) In Unix, how do you find which process is using a file ?**
+You can find which process is using a file with fstat command in Unix. For example, to find which proces is using 'example.txt', we can execute  below command.
 ```json
 fstat example.txt
 ```
 **5-) How would you run a SQL command in your script? Provide a sample script ?**
+We can execute sql script with sql plus like below.
 ```json
 CONNECTION_STATEMENT="$USERNAME/$PASSWORD@$SERVICE"
 
@@ -39,6 +41,7 @@ END-OF-SQL)
 echo "COMPLETED GATHER STATS $OUTPUT";
 ```
 **6-) How would you go about showing non-printable characters in a text file ?**
+We can use 'cat' with '-v' option for non-printable characters. For example :
 ```json
 cat -v example.txt
 ```
@@ -52,22 +55,20 @@ cat -v example.txt
 ```
 **8-) What does it mean to shift left in DevOps ?**
 ```json
-Shift left means encountering errors earlier. When we say earlier, we are talking about the left side of SDLC. 
-The main goal is reduce possibility of unpleasant surprises at the end of the development cycle. 
+Shift left means performing all the verification and validation activities as soon as possible, before the release sign off.
+In that way, we have a chance to detect any weakness of the product in early stages of SDLC and take preventive actions. 
+The main goal is reduce possibility of unpleasant surprises at the end of the development cycle.
 ```
 **9-) What are the prerequisites for the implementation of DevOps ?**
 ```json
-• The company , product and requirements.
+• The company culture, quality mindset, product requirements.
 • A thorough road map and flexible team for common goal.
-• If we need more time for analyzing and development the product
-• If the product has complex task about test and delivery
-• If the features of the product shows variability
-
+• Providing and planning time for analysis and development of product
 ```
 **10-) What are the fundamental differences between DevOps & Agile ?**
 ```json
 • Agile refers to an iterative approach which focuses on collaboration, customer feedback, and small, rapid releases. 
-  DevOps is considered a practice of bringing development and operations teams together. 
-• In Agile , feedbacks given by the customer. In DevOps, feedbacks given by internal team.
-• Agile process focusses on constant changes. DevOps focuses on constant testing and delivery.
+  DevOps is considered as a practice of bringing development and operation teams together. 
+• In Agile , feedbacks are given by the customer. In DevOps, feedbacks are given by internal team.
+• Agile process focuses on changes. DevOps focuses on testing and delivery.
 ```
